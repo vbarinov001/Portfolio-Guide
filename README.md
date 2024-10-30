@@ -24,6 +24,6 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 
 | Project Link | Project Description |
 |---|---|
-| [Maven AdventureWorks]([https://github.com/katiehuangx/Maven-Unicorn-Challenge](https://github.com/vbarinov001/Maven-Adventure-Works)) | Created interactive visualizations in Power BI using the AdventureWorks dataset to analyze sales performance, customer demographics, inventory levels, and employee metrics. |
+| [Maven AdventureWorks](https://github.com/vbarinov001/Maven-Adventure-Works) | Created interactive visualizations in Power BI using the AdventureWorks dataset to analyze sales performance, customer demographics, inventory levels, and employee metrics. |
 
 ***
