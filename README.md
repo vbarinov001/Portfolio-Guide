@@ -10,7 +10,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 # SQL
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-| [Walmart_Sales_Analysis](https://github.com/vbarinov001/Walmart_Sales_Analysis). | Programming, Data Wrangling, & EDA | Analyzed Walmart Retail Data to identify trends, correlations, and KPI's related to sales. |
+| [Walmart Sales Analysis](https://github.com/vbarinov001/Walmart_Sales_Analysis). | Programming, Data Wrangling, & EDA | Analyzed Walmart Retail Data to identify trends, correlations, and KPI's related to sales. |
 ***
 
 # Python
