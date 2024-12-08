@@ -11,6 +11,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
 | [Walmart Sales Analysis](https://github.com/vbarinov001/Walmart_Sales_Analysis) | Programming, Data Wrangling, & EDA | Analyzed Walmart Retail Data to identify trends, correlations, and KPI's related to sales. |
+
 ***
 
 # Python
@@ -18,7 +19,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |
 |---|---|---|---|
 | [Pokedata Visualizer](https://github.com/vbarinov001/Pokedata-Visualizer/tree/main) | Programming, Data Wrangling, & EDA | Analyzed pokemon data to identify which pokemon stood out in certain categories (ie: generation, region) as well as analyzed to what extent generational stat creep occurs in the mainline game series. | BeautifulSoup, Pandas |
-
+| Tidal Power Plant West Coast US Analysis | Programming, Data Wrangling, Geospatial, & EDA | IN PROGRESS |
 ***
 
 # Power BI
