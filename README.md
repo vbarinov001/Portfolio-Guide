@@ -19,7 +19,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |
 |---|---|---|---|
 | [Pokedata Visualizer](https://github.com/vbarinov001/Pokedata-Visualizer/tree/main) | Programming, Data Wrangling, & EDA | Analyzed pokemon data to identify which pokemon stood out in certain categories (ie: generation, region) as well as analyzed to what extent generational stat creep occurs in the mainline game series. | BeautifulSoup, Pandas |
-| Tidal Power Plant West Coast US Analysis | Programming, Data Wrangling, Geospatial, & EDA | IN PROGRESS |
+| [Tidal Power Plant West Coast US Analysis](https://github.com/vbarinov001/Tidal_Power_Plant_Location_Project) | Programming, Data Wrangling, Geospatial, & EDA | This script identifies optimal tidal power locations by analyzing MSL trends and distances to power plants. It visualizes the top 25 stations on a depth map, highlighting their positions and nearest stations. |
 ***
 
 # Power BI
