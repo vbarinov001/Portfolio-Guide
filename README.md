@@ -6,6 +6,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Power BI](#powerbi)
+- [Tableau](#Tableau)
 
 # SQL
 | Project Link | Area of Analysis | Project Description |
@@ -30,3 +31,9 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 | [Maven MarketReport](https://github.com/vbarinov001/Maven-Market-Report) |  Developed an interactive dashboard to analyze key metrics like profit margins, return rates, and sales trends, providing insights to support strategic decision-making in areas such as inventory management and marketing for a simulated retail platform. |
 
 ***
+
+# Tableau
+
+| Project Link | Project Description | 
+|---|---|
+| TBD | Developed a Pizza Sales Dashboard using SQL and Tableau for sales analysis. Used SQL to query and aggregate sales data, then built Tableau visualizations to track revenue, order trends, and top-selling pizzas. Enabled quick insights into business performance. |
