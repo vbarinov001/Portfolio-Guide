@@ -36,4 +36,4 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | 
 |---|---|
-| TBD | Developed a Pizza Sales Dashboard using SQL and Tableau for sales analysis. Used SQL to query and aggregate sales data, then built Tableau visualizations to track revenue, order trends, and top-selling pizzas. Enabled quick insights into business performance. |
+| [Pizza Sales Dashboard](https://github.com/vbarinov001/Pizza-Sales-Dashboard) | Developed a Pizza Sales Dashboard using SQL and Tableau for sales analysis. Used SQL to query and aggregate sales data, then built Tableau visualizations to track revenue, order trends, and top-selling pizzas. Enabled quick insights into business performance. |
