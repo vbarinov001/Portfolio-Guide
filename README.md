@@ -24,7 +24,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 | [Tidal Power Plant West Coast US Analysis](https://github.com/vbarinov001/Tidal_Power_Plant_Location_Project) | Programming, Data Wrangling, Geospatial, & EDA | This script identifies optimal tidal power locations by analyzing MSL trends and distances to power plants. It visualizes the top 25 stations on a depth map, highlighting their positions and nearest stations. | rasterio, pyproj, matplotlib, numpy, pandas, math |
 ***
 
-# Power_BI
+# Power BI
 
 | Project Link | Project Description |
 |---|---|
