@@ -12,6 +12,7 @@ Welcome to my data portfolio. Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
 | [Walmart Sales Analysis](https://github.com/vbarinov001/Walmart_Sales_Analysis) | Programming, Data Wrangling, & EDA | Analyzed Walmart Retail Data to identify trends, correlations, and KPI's related to sales. |
+| [Car Resale Cleaning Project](https://github.com/vbarinov001/Car_Resale_Dataset_Cleaning_Project) | Programming, Data Wrangling | Cleaned and transformed car sales dataset with standardization and unit conversions for US audience |
 
 ***
 
